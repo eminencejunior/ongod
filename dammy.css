@@ -1,0 +1,32 @@
+ p {
+    margin-top: 0%;
+    color: white;
+    font-size: large;
+    font-family: verdana;
+}
+body {
+    background-image: url("Lekan.jpg");
+}
+img {
+    height: 25px;
+    border-radius: 440px;
+}
+h4 {
+    text-align: center;
+    color: white;
+}
+h5 {
+    color: yellow;
+    font-family: verdana;
+    text-align: center;
+    margin-top: 0%;
+}
+video {
+    height: 400px;
+    width: 600px;
+    margin-left: 400px;
+}
+.money {
+    margin-left: 550px;
+}
+
